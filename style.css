@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(70, 142, 236);
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+}
+
+
+section {
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: 0 auto;
+
+}
+
+#sel {
+    display: block;
+    margin: 0;
+    width: 200px;
+    font-size: medium;
+}
+
+#finalizar {
+    margin-bottom: 8px;
+}
+
+#res > p {
+    margin: 1px;
+    text-align: start;
+}
+
+footer {
+    font: italic;
+}
